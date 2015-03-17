@@ -1,0 +1,12 @@
+2015-03-15 14:52:23.416 IonicGulpSeed[23243:1722470] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/derrickypenburg/Library/Developer/CoreSimulator/Devices/633AEB3C-1705-468E-9EB3-8FAD27706AAC/data/Containers/Data/Application/DC0CA0E4-D034-4C27-8C9B-A2E3393AC720/Library/Cookies/Cookies.binarycookies
+2015-03-15 14:52:23.839 IonicGulpSeed[23243:1722470] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-15 14:52:23.840 IonicGulpSeed[23243:1722470] Multi-tasking -> Device: YES, App: YES
+2015-03-15 14:52:23.865 IonicGulpSeed[23243:1722470] Unlimited access to network resources
+2015-03-15 14:52:25.142 IonicGulpSeed[23243:1722470] Resetting plugins due to page load.
+2015-03-15 14:52:25.611 IonicGulpSeed[23243:1722470] Finished load of: file:///Users/derrickypenburg/Library/Developer/CoreSimulator/Devices/633AEB3C-1705-468E-9EB3-8FAD27706AAC/data/Containers/Bundle/Application/68F12B0D-B80E-4697-B260-60CA30B74010/IonicGulpSeed.app/www/index.html#/app/home
+2015-03-15 15:01:32.091 IonicGulpSeed[23374:1725390] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/derrickypenburg/Library/Developer/CoreSimulator/Devices/633AEB3C-1705-468E-9EB3-8FAD27706AAC/data/Containers/Data/Application/40D9B920-63D7-45CD-9656-3A3C2AE7E3BA/Library/Cookies/Cookies.binarycookies
+2015-03-15 15:01:32.186 IonicGulpSeed[23374:1725390] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-15 15:01:32.187 IonicGulpSeed[23374:1725390] Multi-tasking -> Device: YES, App: YES
+2015-03-15 15:01:32.189 IonicGulpSeed[23374:1725390] Unlimited access to network resources
+2015-03-15 15:01:32.428 IonicGulpSeed[23374:1725390] Resetting plugins due to page load.
+2015-03-15 15:01:32.729 IonicGulpSeed[23374:1725390] Finished load of: file:///Users/derrickypenburg/Library/Developer/CoreSimulator/Devices/633AEB3C-1705-468E-9EB3-8FAD27706AAC/data/Containers/Bundle/Application/4EF1EFF2-1799-434A-B5DD-B7914F61B05A/IonicGulpSeed.app/www/index.html#/app/home
