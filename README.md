@@ -1,8 +1,6 @@
 ## noBul Media Mobile Project Template
 An ionic starter project with a gulp toolchain
 
-Heads-up: There is now also a [Yeoman Generator](https://github.com/tmaximini/generator-ionic-gulp) available for this seed.
-
 ## Features
 
 * Gulp jobs for development, building, emulating and running your app
@@ -12,21 +10,12 @@ Heads-up: There is now also a [Yeoman Generator](https://github.com/tmaximini/ge
 * Auto min-safe all Angular DI through `ng-annotate`, no need to use weird bracket notation
 * Comes already with [ng-cordova](http://ngcordova.com/) and [lodash](https://lodash.com)
 * generate icon font from svg files
-* Blazing fast
+* ngDocs generation
 
 
 ## Installation
 
-I recommend using the available [Yeoman Generator](https://github.com/tmaximini/generator-ionic-gulp).
-
-```bash
-npm install -g yo generator-ionic-gulp
-yo ionic-gulp
-```
-
-OR you can clone the repo manually:
-
-1. Clone this project `git clone https://github.com/tmaximini/ionic-gulp-seed.git <YOUR-PROJECT-NAME>`
+1. Clone this project `git clone path/nobul/repo <YOUR-PROJECT-NAME>`
 2. Change remote to your repo `git remote set-url origin https://github.com/<YOUR-USERNAME>/<YOUR-PROJECT-NAME>.git`
 3. run `npm install` and `bower install` to install dependencies
 
