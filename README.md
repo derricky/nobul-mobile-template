@@ -1,5 +1,5 @@
- 8j# Ionic Gulp Seed
-### An ionic starter project with a gulp toolchain
+## noBul Media Mobile Project Template
+An ionic starter project with a gulp toolchain
 
 Heads-up: There is now also a [Yeoman Generator](https://github.com/tmaximini/generator-ionic-gulp) available for this seed.
 
